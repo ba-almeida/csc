@@ -17,7 +17,7 @@
     - Challenge type: **Collection**  
     - Primary subject matter: **Azure Apps & Infrastructure**  
     - Pre-made collection or provide collection URL: **Provide collection URL**  
-    - Collection URL: **https://docs.microsoft.com/en-us/users/ritasilveiradacosta-7854/collections/pe7eidg8oe774r**  
+    - Collection URL: **https://docs.microsoft.com/en-us/users/barbaraalmeida-3734/collections/253xim50q8nkmj**  
     - Solo or Teams: **Solo**  
     - Participant type: **Event**  
     - Allow participants to opt-in to the Microsoft.Source developer community newsletter during challenge registration: **Yes**  
@@ -33,4 +33,4 @@
 
 4. **Follow up with the participants on a weekly basis**
 
-    We've prepared in advance 4 email templates that should be send in each respective week. This emails aim to remind every participant to complete the recommended modules, and to attend the friday sessions. Due to the nature of this emails, we recommend that they are send towards the end of each week and before the friday sessions so Thursday mornings should work out nicely.
+    We've prepared in advance 4 email templates that should be send in each respective week. This emails aim to remind every participant to complete the recommended modules (please check the order of the modules in the email template, and if it's in accordance with the Collection URL sent), and to attend the friday sessions. Due to the nature of this emails, we recommend that they are send towards the end of each week and before the friday sessions so Thursday mornings should work out nicely.
